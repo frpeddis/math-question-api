@@ -1,3 +1,4 @@
 __pycache__/
-gen.py 
+gen.py
 run.bat
+.agents/
